@@ -52,8 +52,12 @@ Easy-Shopping-home/<br>
 
 ## 🖼️ Preview
 
-![Preview da Landing Page](./assets/)
-![Preview da Landing Page](./assets/image.png)
+<div align="center">
+  
+![Fullscreen-Computer](./assets/Fullscreen-Computer.PNG)
+
+![Fullscreen-Cellphone](./assets/Fullscreen-Cellphone.PNG)
+</div>
 
 ---
 
@@ -62,3 +66,22 @@ Easy-Shopping-home/<br>
 1. Clone este repositório:
    ```bash
    git clone https://github.com/HenriqueGalimberti1/Easy-Shopping-home.git
+   
+   Navegue até a pasta do projeto:
+   
+   cd Easy-Shopping-home
+   
+   Abra o arquivo index.html no seu navegador preferido.
+
+## 🎯 Próximas Melhorias
+
+- Implementar formulário de contato funcional
+- Melhorar acessibilidade (ARIA labels)
+- Integrar com redes sociais
+- javascrip implementado
+
+## 👨‍💻 Autor
+Henrique Galimberti
+- GitHub: @HenriqueGalimberti1
+
+## ⭐ Não esqueça de dar uma estrela no repositório se gostou do projeto!
