@@ -52,7 +52,8 @@ Easy-Shopping-home/<br>
 
 ## 🖼️ Preview
 
-![Preview da Landing Page](assets/image.png)
+![Preview da Landing Page](./assets/)
+![Preview da Landing Page](./assets/image.png)
 
 ---
 
