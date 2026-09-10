@@ -54,7 +54,7 @@ Easy-Shopping-home/<br>
 
 <div align="center">
   
-![Fullscreen-Computer](./assets/Fullscreen-Computer.PNG)
+![Fullscreen-Computer](./assets/fullscreen-Computer.PNG)
 
 ![Fullscreen-Cellphone](./assets/Fullscreen-Cellphone.PNG)
 </div>
